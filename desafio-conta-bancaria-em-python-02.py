@@ -143,4 +143,7 @@ def main():
             break
 
         else:
+
             print("Opção inválida! Tente novamente.")
+
+        main()
